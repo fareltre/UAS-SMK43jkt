@@ -64,13 +64,13 @@ Jika Anda menggunakan XAMPP, PHP, dan MySQL sudah menjadi satu paket di dalam ap
 **HTTPS:**
 
 ```bash
-$ git clone https://github.com/Schrodinger31/wangkas.git
+$ git clone https://github.com/fareltre/UAS-SMK43jkt
 ```
 
 **SSH:**
 
 ```bash
-$ git clone git@github.com:Schrodinger31/wangkas.git
+$ git clone git@github.com/fareltre/UAS-SMK43jkt
 ```
 
 2. Masuk Ke Direktori Yang Sudah Di Clone
